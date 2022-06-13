@@ -1,0 +1,63 @@
+h1{
+	color: mediumseagreen;
+	font-family:Verdana, sans-serif ;
+	background-color:lightblue;
+	font-size: 39px;
+}
+h2{
+	color: mediumseagreen;
+	font-family:Verdana, sans-serif ;
+	background-color:lightblue;
+	font-size: 26px;
+
+}
+p{
+	font-family:Verdana, sans-serif;
+	font-size: 13px;
+
+}
+a{
+	font-family:Verdana, sans-serif;
+	font-size: 13px;
+	text-decoration: none;
+	color: mediumseagreen;
+	background-color: lightblue;
+}
+body{
+	background-color: #FF9D57;
+}
+a:hover{
+	color: lightblue;
+	background-color: mediumseagreen;
+}
+#pfp{
+	height: 200px;
+	border: 3px solid lightblue;
+}
+div{
+	background-color: white;
+	border: 2px solid black;
+	margin: 10px;
+	padding: 15px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.5);
+	border-radius: 4px;
+}
+ul{
+	font-family: verdana, sans-serif;
+	font-size: 13px;
+}
+#paris{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
+#madrid{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
+#frankfurt{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+}
